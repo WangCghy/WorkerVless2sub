@@ -1,5 +1,5 @@
 
-let 快速订阅访问入口= ['auto'];
+let 快速订阅访问入口= ['dddd'];
 let addresses = [];
 let addressesapi = [];
 
